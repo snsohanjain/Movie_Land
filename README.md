@@ -1,4 +1,4 @@
-<h1> Movie Land <h1/> 
+<h1> Movie Land - Movie Searching Application <h1/> 
 
 ![MOVIE LAND - Movie Searching Application ](https://i.ibb.co/DKxNMkc/Movie-Land.png)
 
