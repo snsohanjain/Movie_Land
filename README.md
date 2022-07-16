@@ -1,6 +1,6 @@
 <h1> Movie Land <h1/> 
 
-![MOVIE LAND](https://i.ibb.co/DKxNMkc/Movie-Land.png)
+![MOVIE LAND - Movie Searching Application ](https://i.ibb.co/DKxNMkc/Movie-Land.png)
 
 
 
